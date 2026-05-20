@@ -17,7 +17,7 @@ Network analysis with Wireshark.
 Detection of LSASS access (MITRE T1003.001) using
 Mimikatz, Sysmon and Wazuh on Windows 10.
 
-[View Document](SOC_Lab_Credential_Dumping.pdf)
+[View Document](SOC_Lab_Bericht_Credential_Dumping.pdf)
 
 ## Tools
 
