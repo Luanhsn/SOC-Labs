@@ -1,20 +1,24 @@
-# Cybersecurity-Portfolio
+# SOC-Labs
 
-Projekte im Bereich IT-Security und Netzwerk.
+Projects in the field of IT security and networking.
 
-## Projekte
+## Projects
 
-### 2. SSH Brute-Force Detection
-Simulation eines SSH-Brute-Force-Angriffs (MITRE T1110.001) 
-mit Python/paramiko und Erkennung via Wazuh SIEM. 
-Netzwerkanalyse mit Wireshark.
- [Zum Dokument](SOC_Lab_SSH_BruteForce.pdf)
+### 1. SSH Brute-Force Detection
 
-### 3. Credential Dumping Detection
-Erkennung von LSASS-Zugriffen (MITRE T1003.001) mit 
-Mimikatz, Sysmon und Wazuh auf Windows 10.
- [Zum Dokument](SOC_Lab_Credential_Dumping.pdf)
+Simulation of an SSH brute-force attack (MITRE T1110.001)
+using Python/paramiko and detection via Wazuh SIEM.
+Network analysis with Wireshark.
+
+[View Document](SOC_Lab_SSH_BruteForce.pdf)
+
+### 2. Credential Dumping Detection
+
+Detection of LSASS access (MITRE T1003.001) using
+Mimikatz, Sysmon and Wazuh on Windows 10.
+
+[View Document](SOC_Lab_Credential_Dumping.pdf)
 
 ## Tools
-Wazuh · Python · Wireshark ·
-Sysmon · Mimikatz · VMware
+
+Wazuh · Python · Wireshark · Sysmon · Mimikatz · VMware
