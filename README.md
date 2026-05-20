@@ -4,11 +4,6 @@ Projekte im Bereich IT-Security und Netzwerk.
 
 ## Projekte
 
-### 1. Netzwerkstruktur & Segmentierung
-Aufbau eines segmentierten Unternehmensnetzwerks mit VLAN, 
-DHCP, ACL, SSH und Sticky MAC in Cisco Packet Tracer.
- [Zum Dokument](SOC_Lab_Netzwerk_Segmentierung.pdf)
-
 ### 2. SSH Brute-Force Detection
 Simulation eines SSH-Brute-Force-Angriffs (MITRE T1110.001) 
 mit Python/paramiko und Erkennung via Wazuh SIEM. 
@@ -21,5 +16,5 @@ Mimikatz, Sysmon und Wazuh auf Windows 10.
  [Zum Dokument](SOC_Lab_Credential_Dumping.pdf)
 
 ## Tools
-Wazuh · Python · Wireshark · Cisco Packet Tracer · 
+Wazuh · Python · Wireshark ·
 Sysmon · Mimikatz · VMware
